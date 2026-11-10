@@ -33,7 +33,7 @@
 </tr>
 <tr>
 <td><img src="docs/screenshots/feature-visit-history.png" alt="Demo Guest 01の今回と過去の2回分の来店履歴が表示される"><br><b>来店履歴</b> — 今回と過去の来店をまとめて表示</td>
-<td><img src="docs/screenshots/feature-contacts.png" alt="お気に入りと五十音・アルファベット索引付きで架空の顧客を一覧表示する電話帳"><br><b>電話帳</b> — 名前・電話番号・メモで検索、五十音／A–Z索引付き</td>
+<td><img src="docs/screenshots/feature-contacts.png" alt="お気に入りのDemo Guest 01・03と索引を表示する電話帳"><br><b>電話帳</b> — 名前・電話番号・メモで検索、五十音／A–Z索引付き</td>
 </tr>
 <tr>
 <td><img src="docs/screenshots/feature-day-summary.jpg" alt="11月10日の集計パネルに予約9組・合計28名・Walk-in1組と予約一覧を表示"><br><b>日別集計</b> — 予約組数・総人数・Walk-inを自動で更新</td>
