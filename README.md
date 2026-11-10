@@ -59,13 +59,6 @@ T1からT3へ移動すると、T1が空席に戻り、T3が使用中になりま
 
 ![11月9日の予約4組・10名と予約一覧をカレンダーで確認する](docs/screenshots/feature-calendar.png)
 
-<details>
-<summary>スマートフォン表示を見る</summary>
-
-![架空データのモバイル予約一覧](docs/screenshots/bookings-mobile.png)
-
-</details>
-
 ## 技術構成
 
 | 技術 | 選んだ理由 |
