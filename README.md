@@ -3,8 +3,6 @@
 ロサンゼルスの焼き鳥店 YAKITORI NISHI で、**実際の営業に使われている**予約・席管理アプリです。
 アルバイト先で紙の台帳による予約の重複や、席状況の伝達漏れが起きていたため、自分で提案して個人で開発しました。
 
-![卓ごとの予約を時間帯と状態別の色で表示したタイムライン](docs/screenshots/feature-reservation-timeline.jpg)
-
 - **担当**：個人開発（提案・設計・実装・テスト）。スタッフの声をもとに改善を継続
 - **技術**：Node.js / Express / SQLite（better-sqlite3）/ HTML・CSS・JavaScript
 - **利用環境**：店舗PC 1台でサーバーを動かし、店内のPC・タブレットのブラウザから利用
@@ -35,7 +33,11 @@
 </tr>
 <tr>
 <td><img src="docs/screenshots/feature-visit-history.png" alt="Demo Guest 01の今回と過去の2回分の来店履歴が表示される"><br><b>来店履歴</b> — 今回と過去の来店をまとめて表示</td>
+<td><img src="docs/screenshots/feature-contacts.png" alt="お気に入りと五十音・アルファベット索引付きで架空の顧客を一覧表示する電話帳"><br><b>電話帳</b> — 名前・電話番号・メモで検索、五十音／A–Z索引付き</td>
+</tr>
+<tr>
 <td><img src="docs/screenshots/feature-day-summary.jpg" alt="11月10日の集計パネルに予約9組・合計28名・Walk-in1組と予約一覧を表示"><br><b>日別集計</b> — 予約組数・総人数・Walk-inを自動で更新</td>
+<td><img src="docs/screenshots/feature-reservation-timeline.jpg" alt="卓ごとの予約を時間帯と状態別の色で表示したタイムライン"><br><b>予約タイムライン</b> — 卓ごとの予約を時間帯で表示。空き枠から登録</td>
 </tr>
 </table>
 
