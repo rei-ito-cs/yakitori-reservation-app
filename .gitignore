@@ -6,3 +6,5 @@
 !docs/diagrams/*.md
 !docs/screenshots/
 !docs/screenshots/*.png
+!docs/screenshots/feature-day-summary.jpg
+!docs/screenshots/feature-reservation-timeline.jpg
